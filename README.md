@@ -1,4 +1,4 @@
-# Clone da página do Spotidy
+# Clone da página do Spotify
 
 Link do projeto: 
 
